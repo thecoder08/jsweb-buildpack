@@ -1,4 +1,4 @@
 #!/bin/sh
 
 echo "default_process_types:"
-echo "  web: ./pyweb-linux \$PORT"
+echo "  web: ./jsweb-linux \$PORT"

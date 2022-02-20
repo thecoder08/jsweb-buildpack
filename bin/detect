@@ -1,7 +1,7 @@
 #!/bin/sh
 
-if [ -f $1/pyweb ]; then
-  echo "PywebFramework"
+if [ -f $1/package.json ]; then
+  echo "JswebFramework"
   exit 0
 else
   exit 1
